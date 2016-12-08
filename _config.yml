@@ -19,8 +19,8 @@ baseurl: "/purple"
 permalink: /:title/
 
 #color scheme - Purple theme
-color-1: '#6a3093'
-color-2: '#a044ff' 
+color-1: '#5ff442'
+color-2: '#0d035b' 
 
 #Endless-River theme - remove the '#' 
 #color-1: '#155799'
